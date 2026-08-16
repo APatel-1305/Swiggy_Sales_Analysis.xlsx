@@ -8,7 +8,7 @@ The dashboard transforms raw Swiggy restaurant data into an interactive business
 
 ## 📊 Dashboard Preview
 
-![Swiggy Sales Dashboard](screenshots/dashboard.png)
+![Swiggy Sales Dashboard](Screenshot/dashboard.png)
 
 ---
 
